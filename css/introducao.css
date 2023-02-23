@@ -20,7 +20,7 @@
   display: block;
   width: 130px;
   height: 100px;
-  background: url('./img/detalhe.svg');
+  background: url('../img/detalhe.svg');
   position: absolute;
   top: 0px;
   left: -40px;
